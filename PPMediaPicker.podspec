@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
   s.description      = 'M2313131IT'
                     
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/PPMediaPicker"
+  s.homepage         = "https://github.com/placepixel/iOS-PPMediaPicker"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Alex Padalko" => "a.padalco@icloud.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/PPMediaPicker.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/placepixel/iOS-PPMediaPicker.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'

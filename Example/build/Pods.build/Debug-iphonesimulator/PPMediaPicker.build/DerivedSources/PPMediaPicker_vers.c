@@ -1,0 +1,1 @@
+ const unsigned char PPMediaPickerVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:PPMediaPicker  PROJECT:Pods-1" "\n"; const double PPMediaPickerVersionNumber __attribute__ ((used)) = (double)1.;
