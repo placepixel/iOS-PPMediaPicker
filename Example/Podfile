@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'PPMediaPicker_Example', :exclusive => true do
+  pod 'PPMediaPicker', :path => '../'
+end
+
+target 'PPMediaPicker_Tests', :exclusive => true do
+  pod 'PPMediaPicker', :path => '../'
+
+  
+end

@@ -1,0 +1,14 @@
+PODS:
+  - PPMediaPicker (0.1.0)
+
+DEPENDENCIES:
+  - PPMediaPicker (from `../`)
+
+EXTERNAL SOURCES:
+  PPMediaPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PPMediaPicker: eafa76220ca73c2b2ac6c490ea4175ef9a72af75
+
+COCOAPODS: 0.39.0
