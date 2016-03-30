@@ -1,6 +1,0 @@
-framework module PPMediaPicker {
-  umbrella header "PPMediaPicker-umbrella.h"
-
-  export *
-  module * { export * }
-}
