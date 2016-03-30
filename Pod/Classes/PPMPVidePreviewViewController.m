@@ -16,18 +16,18 @@
 
 -(void)ppmp_setVideoUrlStr:(NSString *)videoUrlStr{
     
-//   self.videoPath = videoUrlStr;
+   self.videoPath = videoUrlStr;
 }
 -(void)viewDidAppear:(BOOL)animated{
     [super viewDidAppear:animated];
-//    [self playFromCurrentTime];
+    [self playFromCurrentTime];
 }
 -(void)viewDidDisappear:(BOOL)animated{
-//    [self stop];
+    [self stop];
 }
 - (void)viewDidLoad {
     [super viewDidLoad];
-//    [self setPlaybackLoops:YES];
+    [self setPlaybackLoops:YES];
     
     // Do any additional setup after loading the view.
 }

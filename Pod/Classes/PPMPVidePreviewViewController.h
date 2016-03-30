@@ -6,8 +6,8 @@
 //  Copyright © 2016 PlacePixel. All rights reserved.
 //
 
-//#import <PBJVideoPlayer/PBJVideoPlayer.h>
+#import <PBJVideoPlayer/PBJVideoPlayer.h>
 #import "PPMPResultVideoPreviewProt.h"
-@interface PPMPVidePreviewViewController : UIViewController <PPMPResultVideoPreviewProt>
+@interface PPMPVidePreviewViewController : PBJVideoPlayerController <PPMPResultVideoPreviewProt>
 
 @end

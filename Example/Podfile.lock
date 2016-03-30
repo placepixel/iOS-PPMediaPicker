@@ -1,5 +1,7 @@
 PODS:
-  - PPMediaPicker (0.1.0)
+  - PBJVideoPlayer (0.3.0)
+  - PPMediaPicker (0.1.0):
+    - PBJVideoPlayer
 
 DEPENDENCIES:
   - PPMediaPicker (from `../`)
@@ -9,6 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PPMediaPicker: eafa76220ca73c2b2ac6c490ea4175ef9a72af75
+  PBJVideoPlayer: 1024ec3e90802459e28fac3d822f03719e100d34
+  PPMediaPicker: 91ee69fdd406114abb5e0028e3c3c1a71f4cd2b1
 
 COCOAPODS: 0.39.0
